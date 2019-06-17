@@ -45,7 +45,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 3,
+    "uniqCompNum": 5,
     "versionPublish": "4.10.3",
     "favicon": "@PROJECT_PATH@/assets/images/estudiosdesuelo.com-logo5-128x87-1.png",
     "noImageResize": "",
@@ -1285,6 +1285,44 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_params": {
+            "token": "8142339807.727bfe1.2e15d800638d4a159b7aece16ae2fa38",
+            "showTitle": true,
+            "layoutGridRadio": false,
+            "imagesPerRowGrid": "1",
+            "rows": "1",
+            "showMoreButton": true,
+            "layoutSliderRadio": true,
+            "imagesPerRowSlider": "4",
+            "spacing": "2",
+            "fullWidth": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
+            "overlay": false,
+            "overlayColor": "#efefef",
+            "overlayOpacity": 0.6
+          },
+          "title": "Instagram",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
+          "display2": "display-2",
+          "display4": "display-4",
+          "alias": "instagram-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "instagram-feed-block",
+          "_anchor": "instagram-feed-block-4",
+          "_styles": {
+            ".inst__title": {
+              "color": "#ff4300"
+            }
+          }
         },
         {
           "alias": false,

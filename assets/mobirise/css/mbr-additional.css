@@ -2323,6 +2323,9 @@ body {
     display: block;
   }
 }
+#instagram-feed-block-4 .inst__title {
+  color: #ff4300;
+}
 .cid-rtjmVyKMIL {
   padding-top: 30px;
   padding-bottom: 30px;
