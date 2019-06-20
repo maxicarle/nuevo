@@ -574,6 +574,9 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
+.scrollToTop_wraper {
+  display: none;
+}
 #scrollToTop a i:before {
   content: '';
   position: absolute;
@@ -1778,54 +1781,17 @@ body {
 .cid-rtjig96Lcc H4 {
   color: #ffffff;
 }
-.cid-rtjiKtaLmI {
-  padding-top: 15px;
-  padding-bottom: 15px;
+.cid-rtXW361PxG {
+  padding-top: 75px;
+  padding-bottom: 75px;
   background-image: url("../../../assets/images/estudiodesuelos-12-435x300.png");
 }
-.cid-rtjiKtaLmI .nav-tabs .nav-item.open .nav-link:focus,
-.cid-rtjiKtaLmI .nav-tabs .nav-link.active:focus {
-  outline: none;
+.cid-rtXW361PxG P {
+  color: #767676;
 }
-.cid-rtjiKtaLmI .nav-tabs {
-  -webkit-justify-content: center;
-  justify-content: center;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  border-bottom: none;
-}
-.cid-rtjiKtaLmI .nav-tabs .nav-item {
-  padding: .5rem;
-}
-.cid-rtjiKtaLmI .nav-tabs .nav-link {
+.cid-rtXW361PxG H1 {
   color: #ffffff;
-  font-style: normal;
-  font-weight: 500;
-  border: 1px solid #ffffff;
-  transition: all .5s;
-}
-.cid-rtjiKtaLmI .nav-tabs .nav-link:hover {
-  cursor: pointer;
-  background-color: #ff4300;
-}
-.cid-rtjiKtaLmI .nav-tabs .nav-link.active {
-  font-weight: 500;
-  color: #ffffff;
-  font-style: normal;
-  background-color: #ff4300;
-  border-color: #ff4300;
-}
-.cid-rtjiKtaLmI .nav-tabs .nav-link.active:hover {
-  background-color: #ff4300;
-}
-.cid-rtjiKtaLmI p {
-  color: #ffffff;
-}
-.cid-rtjiKtaLmI .mbr-text {
   text-align: center;
-}
-.cid-rtjiKtaLmI H2 {
-  color: #efefef;
 }
 .cid-rtjmca6fWH {
   padding-top: 15px;
@@ -2110,9 +2076,9 @@ body {
   color: #ff4300;
 }
 .cid-rtohlp2ZZF {
-  padding-top: 75px;
-  padding-bottom: 90px;
-  background: linear-gradient(0deg, #ffffff, #efefef);
+  padding-top: 0px;
+  padding-bottom: 45px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
 }
 .cid-rtohlp2ZZF .mbr-iconfont-social {
   font-size: 32px;
@@ -2125,8 +2091,8 @@ body {
   color: #ff4300;
 }
 .cid-rtjjScDhu8 {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/tierra-aren-ay-compost-dsc010801-2000x1500.jpg");
 }
 .cid-rtjjScDhu8 .carousel-control {
