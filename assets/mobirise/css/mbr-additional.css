@@ -1327,12 +1327,12 @@ body {
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #503702;
   transition: none;
   min-height: 77px;
 }
 .cid-qTkzRZLJNu .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #503702;
 }
 .cid-qTkzRZLJNu a {
   font-style: normal;
@@ -1416,7 +1416,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qTkzRZLJNu .dropdown .dropdown-menu {
-  background: #333333;
+  background: #503702;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1733,7 +1733,7 @@ body {
 .cid-rtjig96Lcc .card-box {
   z-index: 1;
   position: relative;
-  background-color: rgba(255, 67, 0, 0.4);
+  background-color: rgba(80, 55, 2, 0.5);
   height: 100%;
   width: 100%;
   pointer-events: none;
@@ -2121,8 +2121,7 @@ body {
 .cid-rtjjScDhu8 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ff4300;
-  background: linear-gradient(#ff4300, #efefef);
+  background-image: url("../../../assets/images/tierra-aren-ay-compost-dsc010801-2000x1500.jpg");
 }
 .cid-rtjjScDhu8 .carousel-control {
   background: #000;
@@ -2323,13 +2322,16 @@ body {
     display: block;
   }
 }
+.cid-rtjjScDhu8 H2 {
+  color: #ffffff;
+}
 #instagram-feed-block-4 .inst__title {
   color: #ff4300;
 }
 .cid-rtjmVyKMIL {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #2e2e2e;
+  background-color: #503702;
 }
 .cid-rtjmVyKMIL .row-links {
   width: 100%;
