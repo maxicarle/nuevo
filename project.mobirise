@@ -52,7 +52,7 @@
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
-    "siteUrl": "https://estudiodesuelos.com",
+    "siteUrl": "http://estudiodesuelos.com",
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-142198029-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-142198029-1');\r\n</script>\r\n",
@@ -1262,7 +1262,7 @@
         },
         {
           "_params": {
-            "token": "8142339807.727bfe1.2e15d800638d4a159b7aece16ae2fa38",
+            "token": "8142339807.727bfe1.3372b948759d49598021b235855104d3",
             "showTitle": true,
             "layoutGridRadio": false,
             "imagesPerRowGrid": "1",
@@ -1283,7 +1283,7 @@
             "overlayOpacity": 0.6
           },
           "title": "Instagram",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary display-4\" href=\"#\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Ver mas</a>",
           "display2": "display-2",
           "display4": "display-4",
           "alias": "instagram-feed",
