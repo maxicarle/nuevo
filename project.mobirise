@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "Estudiodesuelos.com",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -47,7 +47,12 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 24,
     "versionPublish": "4.10.3",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/estudiodesuelos.com-logo-128x87.png",
+    "noImageResize": "",
+    "siteUrl": "undefined",
+    "google-analytics": "",
+    "gdpr": ""
   },
   "pages": {
     "index.html": {
