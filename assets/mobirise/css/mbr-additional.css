@@ -135,7 +135,7 @@ body {
   background-color: #ff4300 !important;
 }
 .bg-success {
-  background-color: #f7ed4a !important;
+  background-color: #fdf795 !important;
 }
 .bg-info {
   background-color: #82786e !important;
@@ -208,23 +208,23 @@ body {
 }
 .btn-success,
 .btn-success:active {
-  background-color: #f7ed4a !important;
-  border-color: #f7ed4a !important;
-  color: #3f3c03 !important;
+  background-color: #fdf795 !important;
+  border-color: #fdf795 !important;
+  color: #908803 !important;
 }
 .btn-success:hover,
 .btn-success:focus,
 .btn-success.focus,
 .btn-success.active {
-  color: #3f3c03 !important;
-  background-color: #eadd0a !important;
-  border-color: #eadd0a !important;
+  color: #908803 !important;
+  background-color: #fcf14a !important;
+  border-color: #fcf14a !important;
 }
 .btn-success.disabled,
 .btn-success:disabled {
-  color: #3f3c03 !important;
-  background-color: #eadd0a !important;
-  border-color: #eadd0a !important;
+  color: #908803 !important;
+  background-color: #fcf14a !important;
+  border-color: #fcf14a !important;
 }
 .btn-warning,
 .btn-warning:active {
@@ -372,22 +372,22 @@ body {
 .btn-success-outline,
 .btn-success-outline:active {
   background: none;
-  border-color: #d2c609;
-  color: #d2c609;
+  border-color: #fbef31;
+  color: #fbef31;
 }
 .btn-success-outline:hover,
 .btn-success-outline:focus,
 .btn-success-outline.focus,
 .btn-success-outline.active {
-  color: #3f3c03;
-  background-color: #f7ed4a;
-  border-color: #f7ed4a;
+  color: #908803;
+  background-color: #fdf795;
+  border-color: #fdf795;
 }
 .btn-success-outline.disabled,
 .btn-success-outline:disabled {
-  color: #3f3c03 !important;
-  background-color: #f7ed4a !important;
-  border-color: #f7ed4a !important;
+  color: #908803 !important;
+  background-color: #fdf795 !important;
+  border-color: #fdf795 !important;
 }
 .btn-warning-outline,
 .btn-warning-outline:active {
@@ -470,7 +470,7 @@ body {
   color: #ff3366 !important;
 }
 .text-success {
-  color: #f7ed4a !important;
+  color: #fdf795 !important;
 }
 .text-info {
   color: #82786e !important;
@@ -497,7 +497,7 @@ a.text-secondary:focus {
 }
 a.text-success:hover,
 a.text-success:focus {
-  color: #d2c609 !important;
+  color: #fbef31 !important;
 }
 a.text-info:hover,
 a.text-info:focus {
@@ -1718,7 +1718,8 @@ body {
   background-image: url("../../../assets/images/estudiodesuelos-1-1200x823.png");
 }
 .cid-qTkA127IK8 H1 {
-  color: #ffffff;
+  color: #f9f295;
+  text-align: center;
 }
 .cid-rtjig96Lcc {
   padding-top: 75px;
@@ -1771,7 +1772,7 @@ body {
   padding-bottom: 2rem;
 }
 .cid-rtjig96Lcc .mbr-section-title {
-  color: #232323;
+  color: #503702;
 }
 .cid-rtjig96Lcc H4 {
   color: #ffffff;
@@ -1891,6 +1892,30 @@ body {
   text-align: left;
 }
 .cid-rtjmca6fWH H4 {
+  color: #ff4300;
+}
+.cid-scy7o4THDR {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #efefef;
+}
+.cid-scy7o4THDR .title {
+  margin-bottom: 2rem;
+}
+.cid-scy7o4THDR .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-scy7o4THDR a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-scy7o4THDR a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-scy7o4THDR textarea.form-control {
+  min-height: 188px;
+}
+.cid-scy7o4THDR H2 {
   color: #ff4300;
 }
 .cid-rtnwPxCO3z {
@@ -2059,6 +2084,7 @@ body {
   color: #767676;
   margin: 0;
   padding-top: 1.5rem;
+  text-align: left;
 }
 .cid-rtjje97XLw a:not([href]):not([tabindex]) {
   color: #fff;
