@@ -1732,7 +1732,7 @@ body {
 .cid-rtjig96Lcc .card-box {
   z-index: 1;
   position: relative;
-  background-color: rgba(255, 67, 0, 0.4);
+  background-color: rgba(255, 67, 0, 0.2);
   height: 100%;
   width: 100%;
   pointer-events: none;
@@ -2298,7 +2298,7 @@ body {
 .cid-rtohlp2ZZF {
   padding-top: 75px;
   padding-bottom: 90px;
-  background: linear-gradient(0deg, #ffffff, #efefef);
+  background: linear-gradient(0deg, #efefef, #ffffff);
 }
 .cid-rtohlp2ZZF .mbr-iconfont-social {
   font-size: 32px;
